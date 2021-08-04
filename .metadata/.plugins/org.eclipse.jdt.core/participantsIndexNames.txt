@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\study\Project\Footprint\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1493898695.index
+\footprint\src
+C:\study\Project\Footprint\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3441086585.index
+\footprint\src

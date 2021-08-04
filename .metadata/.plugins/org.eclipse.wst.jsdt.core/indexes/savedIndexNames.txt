@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\study\Project\Footprint\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1487518761.index
+3064882723.index
+890430458.index
+1417028325.index
+617408258.index
+2304543690.index
